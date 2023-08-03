@@ -8,8 +8,7 @@ export default function PageHeader({ onClick, children }: Prop) {
                 onClick={onClick}
             >
                 <div
-                    className="cursor-pointer fixed left-0 top-0 
-                            flex w-full bg-gradient-to-b backdrop-blur-2xl 
+                    className="cursor-pointer bg-gradient-to-b backdrop-blur-2xl 
                             dark:border-neutral-800 dark:from-inherit 
                             lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 
                             lg:p-4 lg:dark:bg-zinc-800/30 grid grid-cols-1 justify-items-center gap-y-1"
