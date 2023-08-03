@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
     "DEPLOYPATH"
-  ]
+  ],
+  "css.lint.unknownAtRules": "ignore",
+  "editor.indentSize": 4
 }
