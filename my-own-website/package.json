@@ -7,7 +7,7 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint && prettier . --check",
-        "fix_style": "prettier . --write"
+        "fix:style": "prettier . --write"
     },
     "dependencies": {
         "@types/node": "20.4.6",
